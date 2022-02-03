@@ -1,3 +1,7 @@
+# Hugo stuff
+
+.hugo_build.lock
+
 # Notes
 
 notes.txt
